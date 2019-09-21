@@ -1,5 +1,10 @@
 # RNN-LSTM-NLP-Sequence-Models
 
+**Recurrent Neural Networks and Long Short Term Memory Networks**
+* The Unreasonable Effectiveness of Recurrent Neural Networks  
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* Understanding LSTM Networks  
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 **Word2Vec Tutorials and Resources**
 * Word2Vec Tutorials  
