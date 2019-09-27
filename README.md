@@ -33,6 +33,8 @@ https://www.kaggle.com/c/word2vec-nlp-tutorial/
 http://ufldl.stanford.edu/tutorial/
 * Stanford Lecture 2 | Word Vector Representations: word2vec  
 https://www.youtube.com/watch?v=ERibwqs9p38
+* Deep Learning | Udacity  
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV
 * Deep Learning, NLP, and Representations  
 http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 * GTC 2015 Keynote with Jeff Dean, Google  
