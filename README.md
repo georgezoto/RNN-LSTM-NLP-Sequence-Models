@@ -34,6 +34,9 @@
 
 ![alt text](images/RNN-LSTM-NLP-Sequence-Models-7d.png)
 
+![alt text](images/RNN-LSTM-NLP-Sequence-Models-8a.png)
+
+![alt text](images/RNN-LSTM-NLP-Sequence-Models-8b.png)
 
 
 **Recurrent Neural Networks and Long Short Term Memory Networks**
