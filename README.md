@@ -48,6 +48,10 @@
 
 ![alt text](images/RNN-LSTM-NLP-Sequence-Models-9e.png)
 
+![alt text](images/RNN-LSTM-NLP-Sequence-Models-11.png)
+
+![alt text](images/RNN-LSTM-NLP-Sequence-Models-12.png)
+
 **Recurrent Neural Networks and Long Short Term Memory Networks**
 * The Unreasonable Effectiveness of Recurrent Neural Networks  
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
