@@ -1,5 +1,24 @@
 # RNN-LSTM-NLP-Sequence-Models
+Sequence Models repository for all projects and programming assignments of Course 5 of 5 of the Deep Learning Specialization offered on Coursera and taught by Andrew Ng, covering topics such as Recurrent Neural Network (RNN), Gated Recurrent Unit (GRU), Long Short Term Memory (LSTM), Natural Language Processing, Word Representations and Embeddings and Attention Model.
 
+I loved implementing cool applications including Character Level Language Modeling, Text and Music generation, Sentiment Classification, Debiasing Word Embeddings, Speech Recognition and Trigger Word Detection. I had a wonderful time using the Google Cloud Platform (GCP) and Deep Learning Frameworks Keras and Tensorflow.
+
+**RNN, GRU, LSTM, NLP, Sequence-Models, see Papers**
+* 2014 GRU On the Properties of Neural Machine Translation Encoder-Decoder Approaches - Cho, Merrienboer, Bahdanau, Bengio
+* 2014 GRU Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling - Chung, Gulcehre, Cho, Bengio
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 ![alt text](images/RNN-LSTM-NLP-Sequence-Models-1.png)
@@ -52,7 +71,7 @@
 
 ![alt text](images/RNN-LSTM-NLP-Sequence-Models-12.png)
 
-**Recurrent Neural Networks and Long Short Term Memory Networks**
+**Recurrent Neural Networks and Long Short Term Memory Networks Resources**
 * The Unreasonable Effectiveness of Recurrent Neural Networks  
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * Understanding LSTM Networks  
@@ -93,3 +112,11 @@ http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 https://www.ustream.tv/recorded/60071572
 * GTC 2015 Keynote with Dr. Andrew Ng, Baidu  
 https://www.ustream.tv/recorded/60113824
+
+# Links:  
+https://www.coursera.org/learn/nlp-sequence-models  
+https://www.coursera.org/specializations/deep-learning  
+https://www.deeplearning.ai  
+https://www.coursera.org/account/accomplishments/verify/PA3E5G7YQXNM  
+https://www.coursera.org/account/accomplishments/specialization/TYHX7MGWHFGT  
+https://www.youtube.com/watch?v=CmomhdylxmQ  
