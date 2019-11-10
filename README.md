@@ -16,9 +16,12 @@ I loved implementing cool applications including Character Level Language Modeli
 * 2016 Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embedding - Bolukbasi, Chang, Zou, Saligrama, Kalai
 * 2014 Sequence to Sequence Learning with Neural Networks - Sutskever, Vinyals, Le
 * 2014 Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation - Cho, Merrienboer, Gulcehre, Bahdanau, Bougares, Schwenk, Bengio
+* 2015 Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN) - Mao, Xu, Yang, Wang, Huang, Yuille
+* 2014 Show and Tell - A Neural Image Caption Generator - Vinyals, Toshev, Bengio, Erhan
+* 2015 Deep Visual-Semantic Alignments for Generating Image Descriptions - Karpathy, Li
 *
 *
-*
+* 
 
 
 ![alt text](images/RNN-LSTM-NLP-Sequence-Models-1.png)
