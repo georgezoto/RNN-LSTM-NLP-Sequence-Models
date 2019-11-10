@@ -14,8 +14,8 @@ I loved implementing cool applications including Character Level Language Modeli
 * 2013 Word2Vec Negative Sampling Distributed Representations of Words and Phrases and their Compositionality - Mikolov, Sutskever, Chen, Corrado, Dean
 * 2014 GloVe - Global Vectors for Word Representation - Pennington, Socher, Manning
 * 2016 Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embedding - Bolukbasi, Chang, Zou, Saligrama, Kalai
-*
-*
+* 2014 Sequence to Sequence Learning with Neural Networks - Sutskever, Vinyals, Le
+* 2014 Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation - Cho, Merrienboer, Gulcehre, Bahdanau, Bougares, Schwenk, Bengio
 *
 *
 *
