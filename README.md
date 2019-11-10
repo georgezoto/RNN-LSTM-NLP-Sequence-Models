@@ -75,6 +75,9 @@ I loved implementing cool applications including Character Level Language Modeli
 
 ![alt text](images/RNN-LSTM-NLP-Sequence-Models-12.png)
 
+[![alt text](images/RNN-LSTM-NLP-Sequence-Models-13.png)](https://www.youtube.com/watch?v=ggQ1y1UHOvc)
+
+
 **Recurrent Neural Networks and Long Short Term Memory Networks Resources**
 * The Unreasonable Effectiveness of Recurrent Neural Networks  
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
@@ -123,4 +126,4 @@ https://www.coursera.org/specializations/deep-learning
 https://www.deeplearning.ai  
 https://www.coursera.org/account/accomplishments/verify/PA3E5G7YQXNM  
 https://www.coursera.org/account/accomplishments/specialization/TYHX7MGWHFGT  
-https://www.youtube.com/watch?v=CmomhdylxmQ  
+https://www.youtube.com/watch?v=ggQ1y1UHOvc  
