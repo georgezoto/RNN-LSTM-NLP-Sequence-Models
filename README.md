@@ -21,8 +21,9 @@ I loved implementing cool applications including Character Level Language Modeli
 * 2015 Deep Visual-Semantic Alignments for Generating Image Descriptions - Karpathy, Li
 * 2002 BLEU bilingual evaluation understudy - a Method for Automatic Evaluation of Machine Translation - Papineni, Roukos, Ward, Zhu
 * 2016 Attention Model Neural Machine Translation by Jointly Learning to Align and Translate - Bahdanau, Cho, Bengio
-* 
-
+* 2006 CTC Connectionist Temporal Classification - Labelling Unsegmented Sequence Data with Recurrent Neural Networks - Graves, Fernandez, Gomez, Schmidhuber
+* 2014 DeepFace- Closing the Gap to Human-Level Performance in Face Verification - Taigman, Yang, Ranzato, Wolf
+* 2016 Show, Attend and Tell - Neural Image Caption Generation with Visual Attention - Xu, Ba, Kiros, Cho, Courville, Salakhutdinov, Zemel, Bengio
 
 ![alt text](images/RNN-LSTM-NLP-Sequence-Models-1.png)
 
