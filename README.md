@@ -19,7 +19,7 @@ I loved implementing cool applications including Character Level Language Modeli
 * 2015 Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN) - Mao, Xu, Yang, Wang, Huang, Yuille
 * 2014 Show and Tell - A Neural Image Caption Generator - Vinyals, Toshev, Bengio, Erhan
 * 2015 Deep Visual-Semantic Alignments for Generating Image Descriptions - Karpathy, Li
-*
+* 2002 BLEU bilingual evaluation understudy - a Method for Automatic Evaluation of Machine Translation - Papineni, Roukos, Ward, Zhu
 *
 * 
 
