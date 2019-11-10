@@ -6,14 +6,14 @@ I loved implementing cool applications including Character Level Language Modeli
 **RNN, GRU, LSTM, NLP, Sequence-Models, see Papers**
 * 2014 GRU On the Properties of Neural Machine Translation Encoder-Decoder Approaches - Cho, Merrienboer, Bahdanau, Bengio
 * 2014 GRU Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling - Chung, Gulcehre, Cho, Bengio
-* 1997 LSTM LONG SHORT-TERM MEMORY - Sepp Hochreiter, Jurgen Schmidhuber
+* 1997 LSTM LONG SHORT-TERM MEMORY - Sepp Hochreiter, Jurgen Schmidhuber
 * 2008 t-SNE Visualizing Data using t-SNE - Laurens van der Maaten, Geoffrey Hinton
 * 2013 Linguistic Regularities in Continuous Space Word Representations - Mikolov, Yih, Zweig
-*
-*
-*
-*
-*
+* 2003 A Neural Probabilistic Language Model - Bengio, Ducharme, Vincent, Jauvin
+* 2013 Word2Vec CBOW Skip-gram Efficient Estimation of Word Representations in Vector Space - Mikolov, Chen, Corrado, Dean
+* 2013 Word2Vec Negative Sampling Distributed Representations of Words and Phrases and their Compositionality - Mikolov, Sutskever, Chen, Corrado, Dean
+* 2014 GloVe - Global Vectors for Word Representation - Pennington, Socher, Manning
+* 
 *
 *
 *
