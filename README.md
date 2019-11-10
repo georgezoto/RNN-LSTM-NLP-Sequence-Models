@@ -20,7 +20,7 @@ I loved implementing cool applications including Character Level Language Modeli
 * 2014 Show and Tell - A Neural Image Caption Generator - Vinyals, Toshev, Bengio, Erhan
 * 2015 Deep Visual-Semantic Alignments for Generating Image Descriptions - Karpathy, Li
 * 2002 BLEU bilingual evaluation understudy - a Method for Automatic Evaluation of Machine Translation - Papineni, Roukos, Ward, Zhu
-*
+* 2016 Attention Model Neural Machine Translation by Jointly Learning to Align and Translate - Bahdanau, Cho, Bengio
 * 
 
 
